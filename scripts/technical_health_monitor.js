@@ -4,7 +4,7 @@ require('dotenv').config();
 // Configuration
 const TARGET_URLS = [
     'https://rxfit.co/',
-    'https://rxfit.co/services/in-home-personal-training-austin/'
+    'https://rxfit.co/in-home-personal-trainer-austin/'
 ];
 const PAGE_SPEED_API_KEY = process.env.GOOGLE_PAGE_SPEED_API_KEY;
 

@@ -9,7 +9,7 @@ const BASE_URL = 'https://rxfit.co';
 const URLS_TO_SCAN = [
     'https://rxfit.co/',
     'https://rxfit.co/about/',
-    'https://rxfit.co/services/in-home-personal-training-austin/',
+    'https://rxfit.co/in-home-personal-trainer-austin/',
     'https://rxfit.co/resources/',
     'https://rxfit.co/free-assessment/'
 ];
